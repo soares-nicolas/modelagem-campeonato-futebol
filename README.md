@@ -1,7 +1,12 @@
-NICOLAS BRUNO SOARES
-n° matricula:12520512
+Nicolas Bruno Soares — matrícula: 12520512
+
 Disciplina: Banco de dados
+
 Professor: Anderson Costa
+
+n° matricula:12520512
+
+
 # Sistema de gerenciamento de campeonato de futebol
 
 Modelagem e implementação em PostgreSQL para a atividade "Modelagem e Criação de Banco de Dados".
