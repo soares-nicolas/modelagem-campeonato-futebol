@@ -38,8 +38,8 @@ O diagrama entidade-relacionamento foi montado em cima da análise acima (entida
 
 ## Etapas 3 e 4 — Modelo relacional e criação das tabelas
 
-Está no arquivo `01_criacao_tabelas.sql`. Nele estão os `CREATE TABLE` de `campeonato`, `time_futebol`, `participacao`, `jogador`, `estadio` e `partida`, já com `PRIMARY KEY`, `FOREIGN KEY`, `NOT NULL` e `CHECK` definidos na própria criação.
+Está no arquivo `create_table.sql`. Nele estão os `CREATE TABLE` de `campeonato`, `time_futebol`, `participacao`, `jogador`, `estadio` e `partida`, já com `PRIMARY KEY`, `FOREIGN KEY`, `NOT NULL` e `CHECK` definidos na própria criação.
 
 ## Etapa 5 — ALTER TABLE
 
-Está no arquivo `02_alteracoes_alter_table.sql`. Tem 5 comandos `ALTER TABLE` (o mínimo pedido era 3), cada um com um comentário explicando o motivo: número de camisa único por time, faixa válida pro número de camisa, nome de time único, e uma coluna de status do campeonato adicionada depois, com seu `CHECK` correspondente.
+Está no arquivo `alter_table.sql`. Tem 5 comandos `ALTER TABLE` (o mínimo pedido era 3), cada um com um comentário explicando o motivo: número de camisa único por time, faixa válida pro número de camisa, nome de time único, e uma coluna de status do campeonato adicionada depois, com seu `CHECK` correspondente.
